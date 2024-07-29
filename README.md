@@ -58,6 +58,8 @@
   
     ```
     docker-compose --version
+    sudo usermod -aG docker name_user
+    
     ```
 
 Теперь у вас должны быть установлены Docker и Docker Compose на вашем сервере Ubuntu. Вы можете начать использовать их для развертывания контейнеров и управления приложениями.
